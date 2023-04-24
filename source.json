@@ -14,7 +14,8 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "rera-vrc/Toggle-Animation-Generator-VPM"
+        "rera-vrc/Toggle-Animation-Generator-VPM",
+		"rera-vrc/Avatar-Venv-System-VPM"
     ],
     "packages":[
         
